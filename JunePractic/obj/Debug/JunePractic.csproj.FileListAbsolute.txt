@@ -1,0 +1,9 @@
+C:\Users\Charlotte\source\repos\JunePractic\JunePractic\bin\Debug\JunePractic.exe.config
+C:\Users\Charlotte\source\repos\JunePractic\JunePractic\bin\Debug\JunePractic.exe
+C:\Users\Charlotte\source\repos\JunePractic\JunePractic\bin\Debug\JunePractic.pdb
+C:\Users\Charlotte\source\repos\JunePractic\JunePractic\obj\Debug\JunePractic.csprojAssemblyReference.cache
+C:\Users\Charlotte\source\repos\JunePractic\JunePractic\obj\Debug\JunePractic.Form1.resources
+C:\Users\Charlotte\source\repos\JunePractic\JunePractic\obj\Debug\JunePractic.Properties.Resources.resources
+C:\Users\Charlotte\source\repos\JunePractic\JunePractic\obj\Debug\JunePractic.csproj.GenerateResource.cache
+C:\Users\Charlotte\source\repos\JunePractic\JunePractic\obj\Debug\JunePractic.exe
+C:\Users\Charlotte\source\repos\JunePractic\JunePractic\obj\Debug\JunePractic.pdb
